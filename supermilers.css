@@ -1,0 +1,142 @@
+
+*
+{
+	background-color: black;
+}
+
+/* Les titres */
+
+h1
+{
+	color: white;
+	font-family: "Trendy University";
+	font-size: 160px;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 50px;
+}
+
+h2
+{
+
+	color: white;
+	font-family: "Trendy University";
+	font-size: 80px;
+	text-align: center;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+h3
+{
+
+		color: white;
+		font-family: "Trendy University";
+		font-size: 35px;
+		text-align: center;
+		margin-top: 20px;
+}
+
+p
+{
+	color: white;
+	display: flex;
+}
+
+nav
+{
+	font-family: "Trendy University";
+	margin-top: 10px;
+}
+
+
+a
+{
+	font-family: "Trendy University";
+	font-size: 30px;
+	text-decoration: none;
+	color: white
+}
+
+.tete
+{
+	display: flex;
+	justify-content: space-around;
+}
+.tete a
+{
+	font-size: 20px;
+}
+
+
+table
+{
+	font-family: "Trendy University";
+	color: white;
+	border-collapse: collapse;
+	width: 1100px;
+	margin: auto;
+	text-align: center; 
+}
+
+td
+{
+	border: 1px solid white;
+}
+
+video
+{
+	display: flex;
+	margin: auto;
+	margin-top: 150px;
+	
+}
+
+#Conteneur
+{
+	display: flex;
+	flex-direction: row-reverse;
+	text-align: top;
+	justify-content: center;
+}
+
+.citation
+{
+	font-family: "Brush Script MT";
+	font-size: 30px;
+	justify-content: center;
+}
+
+.auteur
+{
+	font-family: "Brush Script MT";
+	font-size: 20px;
+	margin-left: 1500px;
+}
+
+
+.menu
+{
+	height: 600px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+div
+{
+margin: 20px;
+}
+
+#chrono 
+{
+	width: 800px;
+	margin: auto;
+}
+
+#prefontaine
+{
+	width: 800px;
+	margin: auto;
+}
